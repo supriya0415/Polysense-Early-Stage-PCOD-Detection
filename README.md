@@ -31,38 +31,36 @@ Polysense is a comprehensive web application designed to help women track their 
 ## 📸 Screenshots
 
 ### 1. Home Page  
-![Home Page]  ![alt text](<Screenshot 2025-10-21 235259-1.png>)
+![Home Page](<Screenshot 2025-10-21 235259-1.png>)
 
 ---
 
 ### 2. Period Tracking Dashboard  
-![Period Tracking Dashboard] ![alt text](<Screenshot 2025-10-21 235853.png>)
+![Period Tracking Dashboard](<Screenshot 2025-10-21 235853.png>)
 
 ---
 
 ### 3. Information Section  
-![Information Section] ![alt text](<Screenshot 2025-10-22 000043.png>)
+![Information Section](<Screenshot 2025-10-22 000043.png>)
 
 ---
 
 ### 4. PCOD Test  
-![PCOD Test] ![alt text](<Screenshot 2025-10-22 000158.png>)
+![PCOD Test](<Screenshot 2025-10-22 000158.png>)
 
 ---
 
 ### 5. Results Page  
-![Results Page]  ![alt text](<Screenshot 2025-09-21 194412.png>)
+![Results Page](<Screenshot 2025-09-21 194412.png>)
 
 ---
 
-### 6. Meal Plan  
-#### Example 1  ![alt text](<Screenshot 2025-10-22 000354.png>)
+### 6. Meal Plan ![Meal Plan](<Screenshot 2025-10-22 000354.png>)
 
 ---
 
 ### 7. Workout Plan  
-![Workout Plan]  
-![alt text](<Screenshot 2025-10-22 000506.png>)
+![Workout Plan](<Screenshot 2025-10-22 000506.png>)
 
 
 ## 🏗️ Project Structure
