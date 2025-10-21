@@ -30,44 +30,39 @@ Polysense is a comprehensive web application designed to help women track their 
 
 ## 📸 Screenshots
 
-
-
 ### 1. Home Page  
-![Home Page](https://raw.githubusercontent.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/main/client/assets/ReademeImage/home.png)  
+![Home Page]  ![alt text](<Screenshot 2025-10-21 235259-1.png>)
 
 ---
 
 ### 2. Period Tracking Dashboard  
-![Period Tracking Dashboard](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/home2.png)  
+![Period Tracking Dashboard] ![alt text](<Screenshot 2025-10-21 235853.png>)
 
 ---
 
 ### 3. Information Section  
-![Information Section](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/track.png)  
+![Information Section] ![alt text](<Screenshot 2025-10-22 000043.png>)
 
 ---
 
 ### 4. PCOD Test  
-![PCOD Test](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/test.png)  
+![PCOD Test] ![alt text](<Screenshot 2025-10-22 000158.png>)
 
 ---
 
 ### 5. Results Page  
-![Results Page](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/result.png)  
+![Results Page]  ![alt text](<Screenshot 2025-09-21 194412.png>)
 
 ---
 
 ### 6. Meal Plan  
-#### Example 1  
-![Meal Plan Example 1](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/mealplan.png)  
-#### Example 2  
-![Meal Plan Example 2](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/mealplan2.png)  
+#### Example 1  ![alt text](<Screenshot 2025-10-22 000354.png>)
 
 ---
 
 ### 7. Workout Plan  
-![Workout Plan](https://github.com/labdhi02/Polysesne---Early-Stage-PCOD-Detection/blob/main/client/assets/ReademeImage/workoutplan.png)  
-
+![Workout Plan]  
+![alt text](<Screenshot 2025-10-22 000506.png>)
 
 
 ## 🏗️ Project Structure
@@ -109,7 +104,7 @@ client/
 
 ## 🔄 Backend Integration
 
-The application connects to a backend service running on `http://localhost:5000` with the following API endpoints:
+The application connects to a backend service running on `http://localhost:5001` with the following API endpoints:
 - `/api/login` - User authentication
 - `/api/register` - User registration
 - `/api/period/dates` - Period tracking data
