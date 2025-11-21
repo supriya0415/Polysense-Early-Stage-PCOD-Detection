@@ -32,6 +32,7 @@ Polysense is a comprehensive web application designed to help women track their 
 
 ### 1. Home Page  
 ![Home Page](<Screenshot 2025-10-21 235259-1.png>)
+<img width="1919" height="1019" alt="Screenshot 2025-10-21 235259" src="https://github.com/user-attachments/assets/7e74754f-583b-46b4-ad6b-a95e7b8be2e5" />
 
 ---
 
