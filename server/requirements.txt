@@ -1,0 +1,8 @@
+#requirements.txt
+flask
+flask-cors
+numpy
+pandas
+joblib
+scikit-learn
+gunicorn
