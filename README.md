@@ -31,36 +31,44 @@ Polysense is a comprehensive web application designed to help women track their 
 ## 📸 Screenshots
 
 ### 1. Home Page  
-![Home Page](<Screenshot 2025-10-21 235259-1.png>)
+![Home Page]
+<img width="1919" height="1019" alt="Screenshot 2025-10-21 235259" src="https://github.com/user-attachments/assets/7e74754f-583b-46b4-ad6b-a95e7b8be2e5" />
 
 ---
 
 ### 2. Period Tracking Dashboard  
-![Period Tracking Dashboard](<Screenshot 2025-10-21 235853.png>)
+<img width="1911" height="1016" alt="Screenshot 2025-10-21 235853" src="https://github.com/user-attachments/assets/598f47ac-c8f9-4c50-ad35-ee7fd2957f47" />
+
 
 ---
 
 ### 3. Information Section  
-![Information Section](<Screenshot 2025-10-22 000043.png>)
+<img width="1918" height="1016" alt="Screenshot 2025-10-22 000043" src="https://github.com/user-attachments/assets/215613ef-c04a-4cf9-bd04-a23a0f35788e" />
+
 
 ---
 
 ### 4. PCOD Test  
-![PCOD Test](<Screenshot 2025-10-22 000158.png>)
+<img width="1916" height="1018" alt="Screenshot 2025-10-22 000158" src="https://github.com/user-attachments/assets/37173120-a393-441e-ba84-fb1efccbe502" />
+
 
 ---
 
 ### 5. Results Page  
-![Results Page](<Screenshot 2025-09-21 194412.png>)
+<img width="1193" height="569" alt="Screenshot 2025-09-21 194412" src="https://github.com/user-attachments/assets/17a9cbbe-62e7-44b1-a71a-b918ea1bc5cd" />
+
 
 ---
 
-### 6. Meal Plan ![Meal Plan](<Screenshot 2025-10-22 000354.png>)
+### 6. Meal Plan
+<img width="1919" height="1022" alt="Screenshot 2025-10-22 000354" src="https://github.com/user-attachments/assets/ee7bfc31-ec5b-4338-ba2f-7d74db9203f4" />
+
 
 ---
 
 ### 7. Workout Plan  
-![Workout Plan](<Screenshot 2025-10-22 000506.png>)
+<img width="1919" height="1022" alt="Screenshot 2025-10-22 000506" src="https://github.com/user-attachments/assets/563fc358-41d0-4c15-b902-56c0bc9bc4b0" />
+
 
 
 ## 🏗️ Project Structure
