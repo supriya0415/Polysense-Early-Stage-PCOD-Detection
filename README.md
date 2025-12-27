@@ -2,7 +2,7 @@
 
 Polysense is a comprehensive web application designed to help women track their menstrual cycles, detect PCOD (Polycystic Ovary Disease) symptoms, and get personalized diet and workout recommendations based on their health data.
 # DEMO:
-"C:\Users\SUPRIYA\Downloads\demopcod_project.mp4"
+
 ## ✨ Features
 
 ### 1. User Authentication 🔐
